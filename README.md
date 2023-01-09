@@ -17,6 +17,7 @@
   <img align="center" alt="Everton-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     
 </div>
+  ##
    
 <div>
      <a href="https://www.linkedin.com/in/everton-simões-291393171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
